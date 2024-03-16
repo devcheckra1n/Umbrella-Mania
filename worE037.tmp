@@ -16,6 +16,6 @@ polygon = PackedVector2Array(0, 0, 33.3334, 0, 33.3334, 366.667, 166.667, 366.66
 [node name="Polygon2D" type="Polygon2D" parent="StaticBody2D/CollisionPolygon2D"]
 
 [node name="Player" parent="." instance=ExtResource("2_488gr")]
-position = Vector2(24, 144)
+position = Vector2(88, 96)
 floor_constant_speed = true
 floor_snap_length = 2.0
